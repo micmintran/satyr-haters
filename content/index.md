@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: The Satyr Haters
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# The Satyr Haters
+A halfling, half-elf, high elf, dragonborn, and a human all meet at a bar. And then they meet a satyr. All unfolds from here on out.
+
+### Sessions
